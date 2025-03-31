@@ -1,6 +1,8 @@
 # QR Code Generator 🚀
 
-![QR Code Generator Demo](demo-screenshot.png)  
+
+![QR Code Generator Demo](https://github.com/user-attachments/assets/34a463db-e567-4c67-82ad-cd6fb48d9277)
+
 *A responsive React-based QR code generator with customization options*
 
 ## 🌟 Features
@@ -11,14 +13,21 @@
 - 100% client-side - no server required
 - Mobile-friendly interface
 
+##🧰 Technologies Used
+React 18
+
+react-qr-code
+
+CSS3 (Flexbox/Grid)
+
+GitHub Pages (for deployment)
+
 ## 🎥 Demo
 [![Live Demo](https://img.shields.io/badge/TRY_LIVE_DEMO-00BFFF?style=for-the-badge&logo=react&logoColor=white)](https://yourusername.github.io/qr-code-generator)  
 *Live demo hosted on GitHub Pages*
 
 ## 📸 Screenshots
-| Light Mode | Dark Mode | Mobile View |
-|------------|-----------|-------------|
-| ![Light Mode](screenshot-light.png) | ![Dark Mode](screenshot-dark.png) | ![Mobile View](screenshot-mobile.png) |
+
 
 ## 🛠️ Installation
 1. Clone the repository:
