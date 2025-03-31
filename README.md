@@ -25,6 +25,9 @@
 *Live demo hosted on GitHub Pages*
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/7eba33c0-1d20-4ef4-998a-47397a51e79f)
+![image](https://github.com/user-attachments/assets/b6d9f1c8-d78c-4367-918e-b4336291e658)
+
 
 
 ## 🛠️ Installation
