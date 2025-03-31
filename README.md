@@ -13,14 +13,12 @@
 - 100% client-side - no server required
 - Mobile-friendly interface
 
-##🧰 Technologies Used
-React 18
+🧰 Technologies Used
 
-react-qr-code
-
-CSS3 (Flexbox/Grid)
-
-GitHub Pages (for deployment)
+-React 18
+-react-qr-code
+-CSS3 (Flexbox/Grid)
+-GitHub Pages (for deployment)
 
 ## 🎥 Demo
 [![Live Demo](https://img.shields.io/badge/TRY_LIVE_DEMO-00BFFF?style=for-the-badge&logo=react&logoColor=white)](https://yourusername.github.io/qr-code-generator)  
